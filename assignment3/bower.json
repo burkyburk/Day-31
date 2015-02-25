@@ -1,0 +1,9 @@
+{
+  "name": "assignment3",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.4.0",
+    "lodash": "~3.3.0"
+  }
+}
